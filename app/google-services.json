@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "611048682010",
+    "firebase_url": "https://finalexamdb-e9ad6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "finalexamdb-e9ad6",
+    "storage_bucket": "finalexamdb-e9ad6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611048682010:android:332c96b17fa9146315d7a3",
+        "android_client_info": {
+          "package_name": "com.example.finalexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmpBi-Llk2GK1BDKV_0DGf_vveqhS8Q9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611048682010:android:d64642374666809815d7a3",
+        "android_client_info": {
+          "package_name": "com.example.wmpfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmpBi-Llk2GK1BDKV_0DGf_vveqhS8Q9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
